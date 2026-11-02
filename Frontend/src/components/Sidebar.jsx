@@ -34,7 +34,7 @@ const Sidebar = ({ chats, currentChatId, onNewChat, onSelectChat, onDeleteChat, 
                         <div className='w-7 h-7 bg-indigo-600 rounded-lg flex items-center justify-center   text-sm'>
                             {'\u2726'}
                         </div>
-                        <span className='text-white font-semibold text-sm'>UNIT-01</span>
+                        <span className='text-white font-semibold text-sm'>AI Chatbot</span>
                     </div>
                     <button className='md:hidden text-gray-500 hover:text-white text-lg leading-none p-1' onClick={onClose}>
                         {'\u2715'}

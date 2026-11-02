@@ -62,7 +62,7 @@ function Login() {
                     <div className="w-12 h-12 bg-indigo-600 rounded-xl mx-auto mb-4 flex items-center justify-center">
                         <span className="text-white text-2xl">{'\u2726'}</span>
                     </div>
-                    <h1 className="text-white text-3xl font-bold tracking-tight">UNIT-01</h1>
+                    <h1 className="text-white text-3xl font-bold tracking-tight">AI Chatbot</h1>
                     <p className="text-gray-400 mt-2 text-sm">
                         {isRegister ? "Create your account" : "Welcome back"}
                     </p>

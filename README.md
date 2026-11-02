@@ -1,4 +1,4 @@
-# UNIT-01 — AI Chatbot
+# AI Chatbot
 
 A full-stack AI chatbot I built as a college project using the MERN stack. Users can register, log in, chat with an AI, and view their past conversations. Works on mobile and tablet too.
 
